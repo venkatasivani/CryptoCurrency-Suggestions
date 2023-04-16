@@ -4,6 +4,10 @@ To Run the Project:
 
 Upload the “Cryptocurrency_Final.ipynb” code final in google colab note book and run the cells.
 
+Domain  :  Data Analytics
+Language :  Python3
+IDE :  Colab or Jupyter Note book
+
 
 # Abstract of the Project:
 
