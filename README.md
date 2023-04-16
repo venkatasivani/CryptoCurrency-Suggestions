@@ -1,5 +1,7 @@
 # CryptoCurrency-Suggestions
 
+To Run the Project:
+
 Upload the “Cryptocurrency_Final.ipynb” code final in google colab note book and run the cells.
 
 
@@ -32,13 +34,13 @@ Three basic principles:
 
 # Exploratory Data Analysis
 
-Step 1:     Data Collection (Merge entire data sets into one csv)
+Step 1:  Data Collection (Merge entire data sets into one csv)
 
-Step 2:     Data Cleaning (Identify necessary attributes )
+Step 2	 Data Cleaning (Identify necessary attributes )
 
-Step 3:     Multivariant analysis of cryptocurrency attributes.
+Step 3:  Multivariant analysis of cryptocurrency attributes.
 
-Step 4:     Data Visuliazation ( Insights will be represented graphically by using 	plotly library to get interactive interface).
+Step 4:  Data Visuliazation ( Insights will be represented graphically by using 	plotly library to get interactive interface).
 
 
 # Time Series Forecasting
