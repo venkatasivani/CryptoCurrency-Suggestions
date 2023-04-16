@@ -1,7 +1,6 @@
 # CryptoCurrency-Suggestions
 
-
-# Upload the “Cryptocurrency_Final.ipynb” code final in google colab note book and run the cells.
+	# Upload the “Cryptocurrency_Final.ipynb” code final in google colab note book and run the cells.
 
 
 # Abstract of the Project:
