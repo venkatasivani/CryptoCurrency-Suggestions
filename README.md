@@ -21,7 +21,7 @@ To forecast digital value for various currencies by considering several variable
 
 Active long short-term memory (LSTM) networks are applied on an individual data set of 20 Cryptocurrencies namely Bitcoin, Ethereum, Cardano, Ripple, Tether,      AAVE, Algorand, Ftxtoken, Polygon, USD coin, SHIBA INU, Fantom, UMA, DOGE, Polkadot, Uniswap, Chainlink, Bitcoin Cash, Litecoin, Graph to observe testing result of      the analysis. 
 
-Project aims to improve forecasting of Cryptocurrency price value variations and suggesting whether on a particular day, a cryptocurrency can be sold or buy        with atmost accuracy.
+Project aims to improve forecasting of Cryptocurrency price value variations and suggesting whether on a particular day, a cryptocurrency can be sold or bought        with atmost accuracy.
 
 # Web Scrapping
 
